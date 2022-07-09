@@ -1,0 +1,4 @@
+{
+  "hello_world": "Hello world!",
+  "attempts": "You have no more attempts.|Be careful, you have :attempts attempt left.|You still have :attempts attempts left."
+}

@@ -1,0 +1,7 @@
+{
+  "hello_world": "Olá mundo!",
+  "attempts": "Você não tem mais nehuma tentativa.|Tenha cuidado, você tem :attempts tentativa restante.|Você ainda tem :attempts tentativas restantes.",
+  "auth": {
+    "login": "Entrar"
+  }
+}
